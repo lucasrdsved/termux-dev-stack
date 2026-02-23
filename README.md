@@ -12,15 +12,17 @@ Documentação e scripts para transformar seu Termux em um ambiente de desenvolv
 - **Webapp Stack:** Suporte para Next.js + Supabase.
 - **Code-Server:** VS Code rodando no navegador.
 
-## ⚡ Instalação Rápida
+## ⚡ Instalação Interativa e Inteligente
 
-Para instalar todo o ambiente automaticamente, abra seu Termux e execute o comando abaixo:
+Este script de instalação foi aprimorado para ser **interativo e inteligente**. Ele oferece um menu para você personalizar a instalação, detecta componentes já instalados para evitar reinstalações desnecessárias e permite retomar a instalação de onde parou em caso de erros.
+
+Para iniciar a instalação, abra seu Termux e execute o comando abaixo:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/lucasrdsved/termux-dev-stack/master/install.sh | bash
 ```
 
-
+Após executar o comando, um menu interativo será exibido, permitindo que você escolha quais componentes deseja instalar ou atualizar.
 
 ## 🛠️ Uso Básico
 
