@@ -17,10 +17,10 @@ Documentação e scripts para transformar seu Termux em um ambiente de desenvolv
 Para instalar todo o ambiente automaticamente, abra seu Termux e execute o comando abaixo:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USUARIO/termux-dev-stack/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/lucasrdsved/termux-dev-stack/master/install.sh | bash
 ```
 
-> **Nota:** Substitua `USUARIO` pelo seu nome de usuário do GitHub após criar o repositório.
+
 
 ## 🛠️ Uso Básico
 
